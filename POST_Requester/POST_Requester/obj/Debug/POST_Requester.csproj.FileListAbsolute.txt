@@ -1,0 +1,7 @@
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\obj\Debug\POST_Requester.csprojAssemblyReference.cache
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\obj\Debug\POST_Requester.csproj.CoreCompileInputs.cache
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\bin\Debug\POST_Requester.exe.config
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\bin\Debug\POST_Requester.exe
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\bin\Debug\POST_Requester.pdb
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\obj\Debug\POST_Requester.exe
+G:\Work\Java\Desktop\reverseProxyDb\POST_Requester\POST_Requester\obj\Debug\POST_Requester.pdb
